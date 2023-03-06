@@ -9,7 +9,7 @@ $config = mysqli_connect($hostname,$username,$password,$db_name);
 
 if($config)
 {
-	echo "Database Connection Successful";
+	echo "";
 }
 else
 {

@@ -1,2 +1,4 @@
 ====== UI Theme ======
 https://dreamslms.dreamguystech.com/html/index.html
+
+https://www.twilio.com/blog/create-qr-code-in-php
